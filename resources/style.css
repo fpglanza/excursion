@@ -8,7 +8,7 @@ body {
 a {
   color: lightblue;
 }
-p {
+body, p {
   color: grey;
   font-size: 20px;
 }
