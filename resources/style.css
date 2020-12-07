@@ -10,5 +10,6 @@ a {
 }
 .footer {
   text-align: right;
-  color: darkgrey;
+  color: grey;
+  font-size: 11px;
 }
