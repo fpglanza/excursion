@@ -8,6 +8,10 @@ body {
 a {
   color: lightblue;
 }
+p {
+  color: grey;
+  font-size: 20px;
+}
 .footer {
   text-align: right;
   color: grey;
